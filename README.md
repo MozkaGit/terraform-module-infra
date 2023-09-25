@@ -1,4 +1,4 @@
-# Terraform AWS Infrastructure<br>[![Provision Dev infra](https://github.com/MozkaGit/terraform-module-infra/actions/workflows/provision_infra.yaml/badge.svg)](https://github.com/MozkaGit/terraform-module-infra/actions/workflows/provision_infra.yaml)</br>
+# Terraform AWS Infrastructure<br>[![Provision Dev infra](https://github.com/MozkaGit/terraform-module-infra/actions/workflows/provision_infra.yaml/badge.svg)](https://github.com/MozkaGit/terraform-module-infra/actions/workflows/provision_infra.yaml)
 
 This project uses Terraform to deploy an infrastructure on AWS.
 
